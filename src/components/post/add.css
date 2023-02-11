@@ -1,0 +1,21 @@
+.inp{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.inp input{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.full {
+    /* border: 1px solid black; */
+    width: fit-content;
+    margin: auto;
+}
+
+#button{
+    margin-left: 110px;
+}
